@@ -27,7 +27,12 @@ No momento, a aplicação está em processo completa está em desenvolvimento.
   - Executar o camando `yarn json-server server.json -p 3333`;
 
 ### 💻 Front-end
+  - Executar `yarn` para instalar dependências
   - Executar o comando `yarn start`;
+  
+
+## 📱 Mobile
+  - Em desenvolvimento;
 
 ## 📝 Licença
 Este projeto está sobre a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
